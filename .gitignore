@@ -1,0 +1,69 @@
+# Visual Studio build files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.log
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.cache
+*.tlog
+*.lastbuildstate
+*.user
+*.unsuccessfulbuild
+*.ilk
+*.pch
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+ipch/
+bin/
+build/
+out/
+
+# Visual Studio project files to ignore
+*.vspscc
+*.vssscc
+*.scc
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Visual Studio folder
+.vs/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Others
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore generated files
+GeneratedFiles/
+
+# Ignore test result files
+TestResults/
+
+# Ignore CMake build folders
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Ignore directories
+.idea/
